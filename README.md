@@ -44,6 +44,7 @@ FRONT PAGE
 LOGIN PAGE / REGISTER PAGE
 
 <img src="Amazone 3.png" width="600">
+<img src="Amazone 5.png" width="600">
 
 |------|
 
