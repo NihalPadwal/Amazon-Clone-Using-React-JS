@@ -36,7 +36,7 @@ You will also see any lint errors in the console.
 
 FRONT PAGE
 
-<img src="Amazone 1.png" width="200">
+<img src="Amazone 1.png" width="600">
 <img src="Amazone 2.png" width="200">
 
 |------|
