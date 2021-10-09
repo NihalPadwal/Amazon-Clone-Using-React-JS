@@ -37,21 +37,21 @@ You will also see any lint errors in the console.
 FRONT PAGE
 
 <img src="Amazone 1.png" width="600">
-<img src="Amazone 2.png" width="200">
+<img src="Amazone 2.png" width="600">
 
 |------|
 
 LOGIN PAGE / REGISTER PAGE
 
-<img src="Amazone 3.png" width="200">
+<img src="Amazone 3.png" width="600">
 
 |------|
 
 CART PAGE
 
-<img src="Amazone 7.png" width="200">
-<img src="Amazone 8.png" width="200">
-<img src="Amazone 9.png" width="200">
+<img src="Amazone 7.png" width="600">
+<img src="Amazone 8.png" width="600">
+<img src="Amazone 9.png" width="600">
 
 |------|
 
