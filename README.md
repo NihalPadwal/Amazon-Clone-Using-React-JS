@@ -1,7 +1,6 @@
 Hello Developer
 
-This is a clone of AMAZON Website, made using REACT JS and FIREBASE. 
-This project includes LOGIN/REGISTER feature. UI just like amazon website. Cart Page and 
+This is a clone of the AMAZON Website, made using REACT JS and FIREBASE. This project includes the Sign in / Sign Up feature. UI is just like the amazon website. This also includes a Cart Page as well as a Checkout page. Every element in this project is Responsive.
 
 Thank you!
 
