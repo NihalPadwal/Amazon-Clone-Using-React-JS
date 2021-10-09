@@ -36,22 +36,22 @@ You will also see any lint errors in the console.
 
 FRONT PAGE
 
-<img src="Amazon 1.jpg" width="200">
-<img src="Amazon 2.jpg" width="200">
+<img src="Amazon 1.png" width="200">
+<img src="Amazon 2.png" width="200">
 
 |------|
 
 LOGIN PAGE / REGISTER PAGE
 
-<img src="Amazon 3.jpg" width="200">
+<img src="Amazon 3.png" width="200">
 
 |------|
 
 CART PAGE
 
-<img src="Amazon 7.jpg" width="200">
-<img src="Amazon 8.jpg" width="200">
-<img src="Amazon 9.jpg" width="200">
+<img src="Amazon 7.png" width="200">
+<img src="Amazon 8.png" width="200">
+<img src="Amazon 9.png" width="200">
 
 |------|
 
